@@ -53,9 +53,7 @@ Recommendation: While these factors may still influence overall health, more foc
 
 ![Screenshot 2025-04-17 145137](https://github.com/user-attachments/assets/1ce09d9a-d99b-4188-be49-fcecfe3be68e)
 
-### End Note
 
-Please see the excel file for the project in the repository files
 
 
 
